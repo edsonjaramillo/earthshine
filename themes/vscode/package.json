@@ -1,0 +1,24 @@
+{
+	"name": "earthshine",
+	"displayName": "earthshine",
+	"version": "1.0.0",
+	"description": "modern and simple",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Earthshine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Earthshine-color-theme.json"
+			}
+		]
+	},
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"__metadata": {
+		"size": 160566
+	}
+}

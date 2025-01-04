@@ -1,0 +1,3 @@
+[submodule "vscode"]
+ path = themes/vscode
+ url = https://github.com/edsonjaramillo/earthshine-vscode
